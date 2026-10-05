@@ -60,6 +60,11 @@ Run in .venv (python3 -m venv .venv)
 python secure_record.py
 ```
 
+Check with
+```
+python tests/test_secure_record.py
+```
+
 ### Task 4
 Run in .venv (python3 -m venv .venv)
 ```
